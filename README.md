@@ -2,7 +2,7 @@
 
 ## Run example
 
-- Clone [link](https://github.com/nhanhuynh-agilityio/example-compare-image)
+- Clone [link](https://github.com/bayba-website/example-compare-image)
 
 - cd `example-compare-image`
 
